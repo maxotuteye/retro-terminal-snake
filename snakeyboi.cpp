@@ -159,8 +159,8 @@ void CheckInput()
 }
 void Update()
 {
-    // update coords for head
-    // current x and y of head
+    // update coords for first tail element
+    // current x and y of first tail element
     int curX = tx[0];
     int curY = ty[0];
 
